@@ -1,5 +1,6 @@
 # Bank-server-api
-* It is a bank API buit Node.js + Express.and AJAX
+* It is a bank API built using Node.js + Express.and AJAX
+* This API is used to fetch bank data for Bank-application (https://github.com/mhr1812/Bank-Application)
 
 ## API details
 
